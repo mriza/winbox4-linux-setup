@@ -1,5 +1,5 @@
 # Mikrotik's Winbox4 for Linux setup
-A simple helper script to install Mikrotik's Winbox 4 on Linux. Download the `winbox-setup.sh to your computer and run it (see usage).
+A simple helper script to install Mikrotik's Winbox 4 on Linux. Download the `winbox-setup.sh` to your computer and run it (see usage).
 
 # Make sure you have curl and unzip.
 
