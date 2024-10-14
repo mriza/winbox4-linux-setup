@@ -11,10 +11,10 @@ A simple helper script to install Mikrotik's Winbox 4 on Linux. Download the `wi
 
 # Usage:
 ## Install:
-`sudo ./install_winbox.sh --install` or `sudo ./install_winbox.sh -i`
+`sudo ./winbox-setup.sh --install` or `sudo ./winbox-setup.sh -i`
 
 ## Update:
-`sudo ./install_winbox.sh --update` or `sudo ./install_winbox.sh -u`
+`sudo ./winbox-setup.sh --update` or `sudo ./winbox-setup.sh -u`
 
 ## Remove:
-`sudo ./install_winbox.sh --remove` or `sudo ./install_winbox.sh -rm`
+`sudo ./winbox-setup.sh --remove` or `sudo ./winbox-setup.sh -rm`
